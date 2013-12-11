@@ -1,0 +1,20 @@
+{
+  "name": "presentation",
+  "version": "0.0.1",
+  "description": "Presentation for pebble-remote",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "David van Leeuwen",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "express": "~3.4.6",
+    "sockjs": "~0.3.8",
+    "jade": "~0.35.0"
+  }
+}
